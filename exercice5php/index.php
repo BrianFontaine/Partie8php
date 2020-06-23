@@ -1,6 +1,6 @@
 <?php 
 
-    setcookie('login','tamere') ;
+    setcookie('login','brian') ;
     setcookie('password','le_dromadere') ;
     include '../header.php'; 
     
